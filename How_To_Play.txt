@@ -1,0 +1,9 @@
+Fantasy_Cricket
+
+
+1.Click on Start
+2.Press Manage Team to Select Your Team
+3.Select Players
+4.Save
+5.Evaluate Your Team
+6.See Your Team Performance
